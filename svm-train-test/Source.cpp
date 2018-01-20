@@ -82,8 +82,8 @@ static char* readline(FILE *input)
 
 int main(int argc, char **argv)
 {
-	char input_file_name[1024]="c:/photo/train_data_from_demo/pre_experiment_data/Arbitrary_Poses/HOG_Data/CD_pre2.txt";
-	char model_file_name[1024]="c:/photo/train_data_from_demo/pre_experiment_data/Arbitrary_Poses/test.model";
+	char input_file_name[1024]="c:/photo/train_data_from_demo/pre_experiment_data/Arbitrary_Poses/HOG_Data/CD_pre3.txt";
+	char model_file_name[1024]="c:/photo/train_data_from_demo/pre_experiment_data/Arbitrary_Poses/CD_128x128.model";
 	const char *error_msg;
 
 
